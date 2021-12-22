@@ -1,6 +1,6 @@
 {
-  "name": "markdown-editor-react",
-  "homepage": "https://mukezhz.github.io/markdown-editor-react/",
+  "name": "markdownEditorReact",
+  "homepage": "https://mukezhz.github.io/markdownEditorReact/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
